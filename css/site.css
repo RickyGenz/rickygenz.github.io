@@ -47,6 +47,10 @@ img {
       text-shadow: none !important;
   }
 
+  body {
+    max-width: 600px;
+  }
+
   a[href]:after {
       content: " (" attr(href) ")";
   }  
