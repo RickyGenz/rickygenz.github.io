@@ -26,15 +26,41 @@ img {
 }
 
 #name {
-  color: #333;
+  color: #393939;
 }
 
 #title {
-  color: #555;
+  color: #494949;
 }
 
 #location {
-  color: #777;
+  color: #595959;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: #333;
+  }
+
+  body {
+    background-color: #333;
+  }
+
+  a {
+    color: #BBBBFF;
+  }
+
+  #name {
+    color: #E1E1E1;
+  }
+  
+  #title {
+    color: #D1D1D1;
+  }
+  
+  #location {
+    color: #C1C1C1;
+  }
 }
 
 @media print {
