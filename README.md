@@ -1,2 +1,3 @@
-# [*rickygenz.github.io*](https://rickygenz.github.io/)
-Personal Page
+# Ricky Genz's Personal Page
+
+[*rickygenz.github.io*](https://rickygenz.github.io/)
