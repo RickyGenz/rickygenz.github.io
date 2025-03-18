@@ -1,16 +1,16 @@
 html {
-  background: #fff url("../img/bg.jpeg") repeat center center;
+  background: #eee url("../img/bg.webp") repeat center center;
   padding: 10px;
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Fira Code", monospace;
   text-align: center;
   max-width: 300px;
   margin: 5vw auto;
   padding: 5px;
   border-radius: 5%;
-  background-color: #fff;
+  background-color: #eee;
 }
 
 img {
@@ -20,9 +20,9 @@ img {
 }
 
 #name,
-#title {
-  font-family: "Arial Black", Gadget, sans-serif;
-  margin: 0.25em 0;
+#title,
+#location {
+  margin: 15px 0;
 }
 
 #name {
@@ -35,6 +35,10 @@ img {
 
 #location {
   color: #595959;
+}
+
+main {
+  margin-top: 30px;
 }
 
 @media (prefers-color-scheme: dark) {
