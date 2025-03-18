@@ -53,24 +53,25 @@ img {
   #name {
     color: #E1E1E1;
   }
-  
+
   #title {
     color: #D1D1D1;
   }
-  
+
   #location {
     color: #C1C1C1;
   }
 }
 
 @media print {
+
   *,
   *:before,
   *:after {
-      background: transparent !important;
-      color: #000 !important;
-      box-shadow: none !important;
-      text-shadow: none !important;
+    background: transparent !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
   }
 
   body {
@@ -78,6 +79,6 @@ img {
   }
 
   a[href]:after {
-      content: " (" attr(href) ")";
-  }  
+    content: " (" attr(href) ")";
+  }
 }
