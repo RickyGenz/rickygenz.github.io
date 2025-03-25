@@ -2,4 +2,4 @@
 
 [*rickygenz.github.io*](https://rickygenz.github.io)
 
-[*ricky.genz.us*](https://ricky.genz.us)
+[*ricky.genz.io*](https://ricky.genz.io)
