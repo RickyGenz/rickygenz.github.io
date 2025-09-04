@@ -1,0 +1,10 @@
+media: images
+content:
+  - name: readme
+    label: README
+    type: file
+    path: README.md
+  - name: site
+    label: Site Home
+    type: file
+    path: index.html
